@@ -46,18 +46,20 @@ https://www.youtube.com/embed/abc123
 
 📊 Προσαρμογές (επόμενες εκδόσεις)
 
-Πίνακας ρυθμίσεων admin
+✅ Πίνακας ρυθμίσεων admin (σε εξέλιξη)
 
-Προβολή preview στον πίνακα προϊόντων
+✅ Προβολή preview στον πίνακα προϊόντων
 
-Εναλλακτική εμφάνιση lightbox popup
+◻ Εναλλακτική εμφάνιση lightbox popup
 
-Υποστήριξη Vimeo και τοπικών .mp4 βίντεο
+◻ Υποστήριξη Vimeo και τοπικών .mp4 βίντεο
 
 📁 Αρχεία Plugin
 
 tnt-product-video/
 ├── tnt-product-video.php
+├── README.md
+└── .gitignore
 
 🚀 Συγγραφείς
 
@@ -65,4 +67,4 @@ Lamprian, Fene, Nikolakith
 
 🌐 Άδεια χρήσης
 
-MIT License
+MIT Licensehttps://opensource.org/licenses/MIT
