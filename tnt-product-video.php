@@ -5,7 +5,6 @@ Plugin URI: https://github.com/lamprian/tnt-product-video
 Description: Αντικαθιστά τη βασική εικόνα προϊόντος στο WooCommerce με YouTube βίντεο, αν υπάρχει URL. Υποστηρίζει όλες τις μορφές YouTube URL (watch, embed, short).
 Version: 1.1
 Author: Lamprian, Fene, Nikolakith
-Author URI: https://github.com/lamprian
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 Text Domain: tnt-product-video
