@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: TNT Product Video for WooCommerce
-Plugin URI: https://github.com/lamprian/tnt-product-video
-Description: Αντικαθιστά τη βασική εικόνα προϊόντος στο WooCommerce με YouTube βίντεο, αν υπάρχει URL. Υποστηρίζει όλες τις μορφές YouTube URL (watch, embed, short).
+Plugin URI: https://github.com/Lamprian/TNT-Product-Video-for-WooCommerce
+Description: Αντικαθιστά τη βασική εικόνα προϊόντος στο WooCommerce με YouTube βίντεο, αν υπάρχει URL. Υποστηρίζει watch, embed και short μορφές.
 Version: 1.1
 Author: Lamprian, Fene, Nikolakith
 License: MIT
