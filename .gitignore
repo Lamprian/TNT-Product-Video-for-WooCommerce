@@ -1,0 +1,14 @@
+# WordPress standard ignores
+*.log
+*.tmp
+.DS_Store
+*.swp
+*.swo
+node_modules/
+vendor/
+.env
+.idea/
+.vscode/
+__MACOSX/
+.sass-cache/
+*.zip
