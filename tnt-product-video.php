@@ -10,7 +10,7 @@ License URI: https://opensource.org/licenses/MIT
 Text Domain: tnt-product-video
 Requires at least: 5.0
 Tested up to: 6.5
-Requires PHP: 7.2
+Requires PHP: 7.4
 */
 
 if (!defined('ABSPATH')) {
