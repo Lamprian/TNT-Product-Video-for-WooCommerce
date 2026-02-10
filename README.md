@@ -30,7 +30,7 @@ TNT Product Video for WooCommerce
    - `wp-content/plugins/`
 3. Από το WordPress admin πήγαινε:
    - **Plugins → TNT Product Video for WooCommerce → Activate**
-4. Άνοιξε ένα προϊόν και συμπλήρωσε το πεδίο **🎥 Video URL (YouTube)**.
+4. Άνοιξε ένα προϊόν και συμπλήρωσε το πεδίο ** Video URL (YouTube)**.
 
 ## Υποστηριζόμενα YouTube URLs
 
