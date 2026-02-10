@@ -1,6 +1,6 @@
 TNT Product Video for WooCommerce
 
-## 📄 Περιγραφή
+## Περιγραφή
 
 Το **TNT Product Video** είναι ένα ελαφρύ WordPress plugin που αντικαθιστά τη βασική εικόνα προϊόντος στο WooCommerce με YouTube βίντεο, όταν υπάρχει σχετικό URL.
 
@@ -9,7 +9,7 @@ TNT Product Video for WooCommerce
 - αφήνει τα υπόλοιπα προϊόντα ανεπηρέαστα,
 - χρησιμοποιεί native hooks του WooCommerce για πιο καθαρή ενσωμάτωση.
 
-## ✨ Λειτουργίες
+## Λειτουργίες
 
 - Προσθήκη custom πεδίου **Video URL** στο admin κάθε προϊόντος.
 - Προστασία αποθήκευσης με nonce/capability checks.
@@ -23,7 +23,7 @@ TNT Product Video for WooCommerce
 - Αντικατάσταση της gallery εικόνων με βίντεο μόνο όταν το URL είναι έγκυρο.
 - Νέα στήλη στη λίστα προϊόντων (**Product Video**) με ένδειξη κατάστασης.
 
-## ⚡ Εγκατάσταση
+## Εγκατάσταση
 
 1. Κατέβασε/κλωνοποίησε το repository.
 2. Αντέγραψε τον φάκελο `TNT-Product-Video-for-WooCommerce` στο:
@@ -32,7 +32,7 @@ TNT Product Video for WooCommerce
    - **Plugins → TNT Product Video for WooCommerce → Activate**
 4. Άνοιξε ένα προϊόν και συμπλήρωσε το πεδίο **🎥 Video URL (YouTube)**.
 
-## 🔹 Υποστηριζόμενα YouTube URLs
+## Υποστηριζόμενα YouTube URLs
 
 | Είσοδος | Μετατρέπεται σε |
 |---|---|
@@ -41,7 +41,7 @@ TNT Product Video for WooCommerce
 | `https://www.youtube.com/embed/abc123` | Χωρίς αλλαγή |
 | `https://www.youtube.com/shorts/abc123` | `https://www.youtube.com/embed/abc123` |
 
-## 📁 Αρχεία Plugin
+## Αρχεία Plugin
 
 ```text
 tnt-product-video/
@@ -53,10 +53,10 @@ tnt-product-video/
 └── LICENSE
 ```
 
-## 🚀 Συγγραφείς
+## Συγγραφείς
 
 Lamprian, Fene, Nikolakith
 
-## 🌐 Άδεια χρήσης
+##  Άδεια χρήσης
 
 MIT License: https://opensource.org/licenses/MIT
